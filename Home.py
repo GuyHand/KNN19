@@ -6,4 +6,4 @@ import matplotlib.pyplot as plt
 
 
 st.header("Sippapas")
-st.imge("./pic/guy.jpg")
+st.image("./pic/guy.jpg")
