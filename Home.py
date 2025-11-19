@@ -5,10 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-st.header("Sippapas")
-st.image("./pic/guy.jpg")
-
 st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
+#st.image("./pic/guy.jpg")
 
 
 col1, col2, col3 = st.columns(3)
